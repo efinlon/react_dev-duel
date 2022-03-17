@@ -1,0 +1,1 @@
+export default 'token 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'
